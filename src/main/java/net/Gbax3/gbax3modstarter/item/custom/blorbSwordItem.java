@@ -26,7 +26,7 @@ public class blorbSwordItem extends SwordItem {
         lightning.setDamage(5f);
         lightning.moveTo(pContext.getClickedPos(), 0, 0);
         pContext.getLevel().addFreshEntity(lightning);
-        pContext.getLevel().explode(null, x, y, z, 10, Level.ExplosionInteraction.TNT);
+        pContext.getLevel().explode(null, x, y, z, 9, Level.ExplosionInteraction.TNT);
         pContext.getPlayer().sendSystemMessage(Component.literal("ZAP!!"));
 
         return InteractionResult.SUCCESS;
