@@ -1,0 +1,12 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+  "category" : "misc",
+  "ingredients" : [{
+    "item" : "gbax3modstarter:blorb"
+    }
+  ],
+  "result" : {
+    "item" : "gbax3modstarter:orb",
+    "count" : 8
+  }
+}

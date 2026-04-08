@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 20,
+  "experience": 70,
+  "group": "orb",
+  "ingredient": {
+    "item": "gbax3modstarter:blob"
+  },
+  "result": "gbax3modstarter:orb"
+}

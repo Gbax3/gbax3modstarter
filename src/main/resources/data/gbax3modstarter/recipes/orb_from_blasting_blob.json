@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 7,
+  "group": "orb",
+  "ingredient": {
+    "item": "gbax3modstarter:blob"
+  },
+  "result": "gbax3modstarter:orb"
+}

@@ -1,0 +1,21 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "category" : "misc",
+  "pattern" : [
+    "@@@",
+    "@#@",
+    "@@@"
+  ],
+  "key" : {
+    "@" : {
+      "item" : "gbax3modstarter:orb"
+    },
+    "#" : {
+      "item" : "gbax3modstarter:blob"
+    }
+  },
+  "result" : {
+    "item" : "gbax3modstarter:blorb",
+    "count" : 1
+  }
+}
